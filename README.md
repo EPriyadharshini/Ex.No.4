@@ -1,11 +1,11 @@
-Ex.No.4 – Prompt Generation & Evaluation
+# Ex.No.4 – Prompt Generation & Evaluation
 DATE: 28-02-2026
 REGISTER NUMBER: 212223230159
-Aim:
+# Aim:
 
 To write prompts for different prompt types and compare them across AI tools using a rubric-based evaluation.
 
-1. Scenario and Use Case
+# 1. Scenario and Use Case
 
 Scenario:
 The manufacturing industry wants to reduce manual monitoring and increase efficiency through automation using IoT devices and embedded controllers. Objectives include predictive maintenance, energy optimization, and real-time monitoring.
@@ -23,14 +23,17 @@ Enable real-time monitoring and remote control
 
 Reduce energy consumption
 
-2. Prompt Design for Each Type
+# 2. Prompt Design for Each Type
 Prompt Type	Example Prompt for Scenario
-Comparative Analysis Prompt	“Compare and contrast manual monitoring vs IoT-based automated monitoring in manufacturing. Discuss their impact on efficiency, downtime, and energy consumption.”
-Experiential Perspective Prompt	“As a plant manager, describe your experience transitioning from manual monitoring to IoT-based automation. What challenges and benefits did you observe?”
+Comparative Analysis Prompt	“Compare and contrast manual monitoring vs IoT-based automated monitoring in manufacturing.
+Discuss their impact on efficiency, downtime, and energy consumption.”
+Experiential Perspective Prompt	“As a plant manager, describe your experience transitioning from manual monitoring to IoT-based automation.
+What challenges and benefits did you observe?”
 Everyday Functioning Prompt	“Explain how IoT sensors in a factory help in everyday production processes, like detecting machine failures, controlling energy usage, and monitoring output quality.”
 Universal Prompt Structures	“Explain the process of predictive maintenance using IoT devices in manufacturing step by step with a simple example.”
 Prompt Size Limitations	“List 50 ways IoT improves manufacturing efficiency. Show only 10 at a time to manage the output size.”
-3. Execution Across AI Tools
+
+# 3. Execution Across AI Tools
 
 AI Tools Used:
 
@@ -48,7 +51,7 @@ Collect the responses.
 
 Record output length, clarity, relevance, and accuracy.
 
-4. Evaluation Method
+# 4. Evaluation Method
 
 Method Used: Rubric Evaluation
 
@@ -68,14 +71,14 @@ Scoring:
 5 = Excellent
 
 5. Sample Evaluation (Comparative Analysis Prompt)
+
+
 AI Tool	Relevance	Clarity	Depth	Actionability	Conciseness	Total /25
-ChatGPT	5	5	5	5	5	25
-Bard AI	4	4	4	4	4	20
-Claude AI	5	4	5	5	4	23
 
-Observations: ChatGPT produced highly actionable and clear comparisons. Bard was slightly shorter and less detailed. Claude provided detailed insights but slightly verbose.
 
-6. Result:
+<img width="1068" height="361" alt="image" src="https://github.com/user-attachments/assets/23c506f0-b73b-4b56-8ce7-44baddedb423" />
+
+# 6. Result:
 
 Prompts for all five types were successfully generated.
 
@@ -87,13 +90,7 @@ Prompt size management worked effectively when breaking large outputs into manag
 
 
 
-
-
-
 <img width="1600" height="489" alt="image" src="https://github.com/user-attachments/assets/2e4dc255-9797-4753-befb-ee69533d20dc" />
-
-
-
 
 
 
@@ -109,6 +106,5 @@ Prompt size management worked effectively for large outputs.
 
 
 
-
-Conclusion:
+# Conclusion:
 Using well-designed prompts according to prompt types ensures better AI responses. Rubric-based evaluation helps objectively compare outputs across tools and can guide prompt refinements.
