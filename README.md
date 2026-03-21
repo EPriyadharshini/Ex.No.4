@@ -1,50 +1,114 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+Ex.No.4 – Prompt Generation & Evaluation
+DATE: 28-02-2026
+REGISTER NUMBER: 212223230159
+Aim:
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+To write prompts for different prompt types and compare them across AI tools using a rubric-based evaluation.
 
-Procedure:
-1.	Define the Scenario and Use Case:
+1. Scenario and Use Case
+
 Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
+The manufacturing industry wants to reduce manual monitoring and increase efficiency through automation using IoT devices and embedded controllers. Objectives include predictive maintenance, energy optimization, and real-time monitoring.
+
 Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+Manufacturing companies in automotive, electronics, and food processing sectors.
 
 Main Objectives:
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+Improve production efficiency by 30%
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+Minimize machinery downtime
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+Enable real-time monitoring and remote control
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+Reduce energy consumption
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+2. Prompt Design for Each Type
+Prompt Type	Example Prompt for Scenario
+Comparative Analysis Prompt	“Compare and contrast manual monitoring vs IoT-based automated monitoring in manufacturing. Discuss their impact on efficiency, downtime, and energy consumption.”
+Experiential Perspective Prompt	“As a plant manager, describe your experience transitioning from manual monitoring to IoT-based automation. What challenges and benefits did you observe?”
+Everyday Functioning Prompt	“Explain how IoT sensors in a factory help in everyday production processes, like detecting machine failures, controlling energy usage, and monitoring output quality.”
+Universal Prompt Structures	“Explain the process of predictive maintenance using IoT devices in manufacturing step by step with a simple example.”
+Prompt Size Limitations	“List 50 ways IoT improves manufacturing efficiency. Show only 10 at a time to manage the output size.”
+3. Execution Across AI Tools
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+AI Tools Used:
+
+ChatGPT (GPT-5-mini)
+
+Bard AI
+
+Claude AI
+
+Procedure:
+
+Input each prompt into all three AI tools.
+
+Collect the responses.
+
+Record output length, clarity, relevance, and accuracy.
+
+4. Evaluation Method
+
+Method Used: Rubric Evaluation
+
+Criteria	Score 1–5	Notes
+Relevance		How closely the AI’s response matches the prompt intent
+Clarity		How clear and understandable the explanation is
+Depth		Level of detail and insights provided
+Actionability		Usefulness of the response for actual implementation
+Conciseness		Avoids unnecessary information; fits size limits
+
+Scoring:
+
+1 = Poor
+
+3 = Average
+
+5 = Excellent
+
+5. Sample Evaluation (Comparative Analysis Prompt)
+AI Tool	Relevance	Clarity	Depth	Actionability	Conciseness	Total /25
+ChatGPT	5	5	5	5	5	25
+Bard AI	4	4	4	4	4	20
+Claude AI	5	4	5	5	4	23
+
+Observations: ChatGPT produced highly actionable and clear comparisons. Bard was slightly shorter and less detailed. Claude provided detailed insights but slightly verbose.
+
+6. Result:
+
+Prompts for all five types were successfully generated.
+
+Responses from AI tools were compared and evaluated using the rubric.
+
+ChatGPT performed best in clarity and actionable depth, Claude AI in depth, and Bard AI was concise but less detailed.
+
+Prompt size management worked effectively when breaking large outputs into manageable chunks.
 
 
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+
+
+
+<img width="1600" height="489" alt="image" src="https://github.com/user-attachments/assets/2e4dc255-9797-4753-befb-ee69533d20dc" />
+
+
+
+
+
+
+from this table:
+
+ChatGPT gave detailed and actionable outputs.
+
+Bard was concise and clear.
+
+Claude emphasized operational insights.
+
+Prompt size management worked effectively for large outputs.
+
+
+
+
+Conclusion:
+Using well-designed prompts according to prompt types ensures better AI responses. Rubric-based evaluation helps objectively compare outputs across tools and can guide prompt refinements.
