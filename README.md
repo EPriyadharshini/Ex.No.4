@@ -1,5 +1,6 @@
 # Ex.No.4 – Prompt Generation & Evaluation
 DATE: 28-02-2026
+
 REGISTER NUMBER: 212223230159
 # Aim:
 
@@ -25,12 +26,19 @@ Reduce energy consumption
 
 # 2. Prompt Design for Each Type
 Prompt Type	Example Prompt for Scenario
+
 Comparative Analysis Prompt	“Compare and contrast manual monitoring vs IoT-based automated monitoring in manufacturing.
+
 Discuss their impact on efficiency, downtime, and energy consumption.”
+
 Experiential Perspective Prompt	“As a plant manager, describe your experience transitioning from manual monitoring to IoT-based automation.
+
 What challenges and benefits did you observe?”
+
 Everyday Functioning Prompt	“Explain how IoT sensors in a factory help in everyday production processes, like detecting machine failures, controlling energy usage, and monitoring output quality.”
+
 Universal Prompt Structures	“Explain the process of predictive maintenance using IoT devices in manufacturing step by step with a simple example.”
+
 Prompt Size Limitations	“List 50 ways IoT improves manufacturing efficiency. Show only 10 at a time to manage the output size.”
 
 # 3. Execution Across AI Tools
