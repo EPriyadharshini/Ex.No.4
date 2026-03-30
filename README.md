@@ -10,6 +10,7 @@
 
 ## Aim
 
+
 To write prompts for the following prompt types and compare outputs from different AI tools and evaluate them using a rubric method.
 
 Comparative Analysis Prompt
@@ -21,11 +22,13 @@ Explanation
 
 This experiment uses AI-Based Smart Manufacturing Automation System as the use case from Unit 5. Different prompt types from Unit 2 are applied to generate outputs using multiple AI tools and evaluate them.
 
+
 ## Scenario and Use Case
 
 **Scenario**
 
 The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline production, minimize downtime, and enhance energy efficiency.
+
 **Objectives**
 
 Manufacturing companies such as:
@@ -50,8 +53,10 @@ Compare Outputs
 Evaluate Using Rubrics
 
 --
-**1. Comparative Analysis Prompt
-Prompt**
+
+**1. Comparative Analysis Prompt**
+
+**Prompt**
 
 Compare manual monitoring and AI-based IoT automation in manufacturing industries in terms of efficiency, cost, downtime, and scalability.
 
