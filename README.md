@@ -52,7 +52,7 @@ Run Prompts using Two AI Tools (ChatGPT & Gemini)
 Compare Outputs
 Evaluate Using Rubrics
 
---
+
 
 **1. Comparative Analysis Prompt**
 
@@ -93,8 +93,9 @@ Gemini = 17/20
 
 
 
---
---
+
+
+
 **2. Experiential Perspective Prompt**
 **Prompt**
 
@@ -129,8 +130,8 @@ Before automation, I relied on manual inspection. After implementing AI automati
 ChatGPT = 20/20
 Gemini = 16/20
 
---
---
+
+
 
 **3. Everyday Functioning Prompt**
    
@@ -168,8 +169,8 @@ IoT sensors collect data from machines daily. AI detects unusual patterns and no
 ChatGPT = 20/20
 Gemini = 18/20
 
---
---
+
+
 
 **4. Universal Prompt Structures**
 **Prompt 1**
@@ -226,8 +227,8 @@ Optimize operations
 ChatGPT = 20/20
 Gemini = 16/20
 
---
---
+
+
 **5. Prompt Size Limitations**
 
 **Large Prompt**
@@ -303,8 +304,6 @@ Gemini = 18/20
 ChatGPT = 93 / 100
 Gemini = 89 / 100
 
---
---
 
 
 **Result:**
